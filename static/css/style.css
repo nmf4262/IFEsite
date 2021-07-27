@@ -12,7 +12,6 @@
   height: 150px;
 }
 
-
 #google{
     padding-top: 50px;
     height: 85%;
@@ -23,7 +22,6 @@
     height: 75%;
 }
 
-
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
   filter: invert(1);
@@ -33,7 +31,6 @@ body {
    background-color: #FFFFFF;
    font-family: georgia;
    text-align: center !important;
-
 }
 h1 {
     text-align: center;
@@ -59,14 +56,22 @@ button:hover {
     color: white;
     padding:10;
 }
-.navbar {
+.navbar-expand-lg {
     font-family: lato;
     text-align: right !important;
     font-size: 20;
     overflow:hidden !important;
     align-items: baseline !important;
-    background-color: #802A2A !important;
 }
+.nav-link,
+.navbar-brand {
+    color: #802A2A !important;
+}
+
+.nav-link:hover {
+    background-color: #D4A1AA;
+}
+
 .card {
   margin-right: 25px;
   margin-left: 25px;
