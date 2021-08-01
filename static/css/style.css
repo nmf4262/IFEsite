@@ -208,3 +208,80 @@ button:hover {
   font-size: 10px;
   font-family: georgia;
 }
+#first_award{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#second_award {
+    margin-bottom: 20px;
+}
+#third_award {
+    margin-bottom: 20px;
+}
+#last_card {
+    display: flex !important;
+    justfy-content: center !important;
+    align-items: center;
+    border-radius:0px;
+    width: 31%;
+}
+@media only screen and (max-width: 575px){
+    #last_card{
+        width: 90%;
+    }
+}
+.container{
+    display: block;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  transition: .5s ease;
+}
+.container:hover .overlay{
+    opacity: 1;
+}
+.card-img-top {
+    height: 100%;
+}
+#team1 {
+    max-height: 235px
+}
+#team2 {
+    max-height: 235px
+}
+#team3 {
+    max-height: 235px
+}
+#team4 {
+    max-height: 235px
+}
+#team5 {
+    max-height: 235px
+}
+#team6 {
+    max-height: 235px
+}
+#team7 {
+    max-height: 235px
+}
+#team8 {
+    max-height: 235px
+}
+#team9 {
+    max-height: 235px
+}
+#team10 {
+    max-height: 235px
+}
+.card-text1 {
+    font-size: 30px;
+}
+.card-title1 {
+    font-size: 35px;
+}
