@@ -220,7 +220,7 @@ button:hover {
 }
 #last_card {
     display: flex !important;
-    justfy-content: center !important;
+    justify-content: center !important;
     align-items: center;
     border-radius:0px;
     width: 31%;
@@ -284,4 +284,11 @@ button:hover {
 }
 .card-title1 {
     font-size: 35px;
+}
+
+#p4p_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 31%;
 }
