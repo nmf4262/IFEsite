@@ -169,39 +169,49 @@ button:hover {
 }
 #top_left_card{
   margin-left:65px;
+  background-color: #DCDCDC !important;
 }
 #top_right_card{
   margin-right:65px;
+  background-color: #DCDCDC !important;
 }
 #mid_left_card1{
   margin-left:65px;
+  background-color: #DCDCDC !important;
 }
 #mid_right_card1{
   margin-right:65px;
+  background-color: #DCDCDC !important;
 }
 #mid_left_card2{
   margin-left:65px;
   margin-top:10px;
+  background-color: #DCDCDC !important;
 }
 #mid_right_card2{
   margin-right:65px;
   margin-top:10px;
+  background-color: #DCDCDC !important;
 }
 #bot_left_card{
   margin-left:65px;
+  background-color: #DCDCDC !important;
 }
 #bot_right_card{
   margin-right:65px;
+  background-color: #DCDCDC !important;
 }
 #bot_left_card1{
   margin-left:65px;
   margin-top: 25px;
   margin-bottom: 15px;
+  background-color: #DCDCDC !important;
 }
 #bot_right_card1{
   margin-right: 65px;
   margin-top: 25px;
   margin-bottom: 15px;
+  background-color: #DCDCDC !important;
 }
 #back_to_top {
   color: #000000;
@@ -224,7 +234,7 @@ button:hover {
     align-items: center;
     border-radius:0px;
     width: 31%;
-    background-color: #000000 !important;
+    background-color: #DCDCDC !important;
 }
 @media only screen and (max-width: 575px){
     #last_card{
@@ -284,4 +294,7 @@ button:hover {
 }
 .card-title1 {
     font-size: 35px;
+}
+#card-img-top {
+    max-height: 30% !important;
 }
