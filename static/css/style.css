@@ -221,12 +221,15 @@ button:hover {
 #first_award{
     margin-top: 40px;
     margin-bottom: 20px;
+    background-color: black !important;
 }
 #second_award {
     margin-bottom: 20px;
+    background-color: black !important;
 }
 #third_award {
     margin-bottom: 20px;
+    background-color: black !important;
 }
 #last_card {
     display: flex !important;
@@ -234,7 +237,7 @@ button:hover {
     align-items: center;
     border-radius:0px;
     width: 31%;
-    background-color: black !important;
+    background-color: #DCDCDC !important;
 }
 @media only screen and (max-width: 575px){
     #last_card{
