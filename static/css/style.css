@@ -170,48 +170,58 @@ button:hover {
 #top_left_card{
   margin-left:65px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #top_right_card{
   margin-right:65px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #mid_left_card1{
   margin-left:65px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #mid_right_card1{
   margin-right:65px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #mid_left_card2{
   margin-left:65px;
   margin-top:10px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #mid_right_card2{
   margin-right:65px;
   margin-top:10px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #bot_left_card{
   margin-left:65px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #bot_right_card{
   margin-right:65px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #bot_left_card1{
   margin-left:65px;
   margin-top: 25px;
   margin-bottom: 15px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #bot_right_card1{
   margin-right: 65px;
   margin-top: 25px;
   margin-bottom: 15px;
   background-color: #DCDCDC !important;
+  overflow: scroll !important;
 }
 #back_to_top {
   color: #000000;
