@@ -1,2 +1,2 @@
 # Prep4Prep Final Student Project Site
-# Designed: Monte Fernandez
+# Designed BY: Monte Fernandez and Luxi712
